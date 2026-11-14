@@ -20,3 +20,7 @@ Ce projet est une application console en Python permettant de gérer des tâches
 2. Cliquer sur le fichier `main.py` dans l'explorateur à gauche.
 3. Cliquer sur le bouton **▶ Run Python File** en haut à droite de l'éditeur.
 4. Suivre les instructions affichées dans le terminal intégré en bas de l'écran.
+
+## Auteurs
+* (Étudiant 1) chargui ilef
+* (Étudiant 2) pas encore
